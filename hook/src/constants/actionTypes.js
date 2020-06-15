@@ -1,0 +1,9 @@
+export const FETCH_REG = "FETCH_REG"
+export const FETCH_LOGIN = "FETCH_LOGIN"
+export const FETCH_PREVE = "FETCH_PREVE"
+export const HOME_GET_USER = "HOME_GET_USER"
+export const HOME_INSERT_USER = "HOME_INSERT_USER"
+export const HOME_UPDATE_USER = "HOME_UPDATE_USER"
+export const HOME_DELETE_USER = "HOME_DELETE_USER"
+export const LIST_LISTWITHPAGE = "LIST_LISTWITHPAGE"
+
